@@ -1,4 +1,4 @@
-# M306 - Arduino Safe Auth with RFID Projekt7
+# Arduino Safe Auth with RFID
 
 Used Librarys
 - WifiNINA
